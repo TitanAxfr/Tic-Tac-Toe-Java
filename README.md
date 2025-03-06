@@ -26,7 +26,7 @@ A simple Tic-Tac-Toe game built using **Java Swing**. Play against a friend on t
 ## 🚀 How to Run
 1. **Clone or Download** the project.  
    ```sh
-   git clone 
+   git clone https://github.com/TitanAxfr/Tic-Tac-Toe-Java
    ```
 2. Open the project in **any Java IDE** (Eclipse, IntelliJ, or NetBeans).  
 3. **Compile & Run** `TicTacToe.java`.    
